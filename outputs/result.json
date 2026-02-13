@@ -1,0 +1,85 @@
+{
+  "distances": [
+    [
+      0.4503911,
+      0.46719143,
+      0.6256047,
+      0.63045967,
+      0.63414806
+    ]
+  ],
+  "documents": [
+    [
+      "I don't know if it is true or not, but people are saying...",
+      "Unsubstantiated report = Rumor.",
+      "I have no idea why such rumors are being reported so prominently.  Mention the rumors as rumors, and that is enough.  I find this so discouraging, because in reading I wind up being confused.  Good grief, this is all saddening.",
+      "Why is the NYT publishing rumors?  Another slow news day folks?",
+      "whoa back!!  I am no trump supporter, but i have spent the last two years putting up with a far-right brother's links to every sort of conspiracy theory.  let's try not to believe something just because we want to -- there's plenty of that on the other side.  i heard rumors like this a long time ago, and i'd be gleeful if they're true, but could we at least try to take the high road on this and encourage trusted sources to actually confirm it,  i can't believe that this wouldn't have been big news a while ago if it was easy to find corroborating evidence."
+    ]
+  ],
+  "embeddings": [],
+  "ids": [
+    [
+      "21071676.0",
+      "21061818.0",
+      "21068555.0",
+      "21062516.0",
+      "21058273.0"
+    ]
+  ],
+  "include": [
+    "metadatas",
+    "documents",
+    "distances"
+  ],
+  "metadatas": [
+    [
+      {
+        "articleID": "587575d295d0e0392607a033",
+        "sectionName": "Politics",
+        "userLocation": "CA",
+        "typeOfMaterial": "News",
+        "userDisplayName": "Steve",
+        "userID": 27373584,
+        "newDesk": "National"
+      },
+      {
+        "userID": 54692409,
+        "newDesk": "National",
+        "sectionName": "Politics",
+        "articleID": "587575d295d0e0392607a033",
+        "userLocation": "Brussels, Belgium",
+        "userDisplayName": "Randy L.",
+        "typeOfMaterial": "News"
+      },
+      {
+        "newDesk": "National",
+        "userDisplayName": "Nancy",
+        "articleID": "587575d295d0e0392607a033",
+        "typeOfMaterial": "News",
+        "userID": 57771928,
+        "sectionName": "Politics",
+        "userLocation": "Great Neck"
+      },
+      {
+        "userLocation": "Indiana",
+        "sectionName": "Politics",
+        "typeOfMaterial": "News",
+        "newDesk": "National",
+        "userID": 47723087,
+        "userDisplayName": "Bruce Bensen",
+        "articleID": "587575d295d0e0392607a033"
+      },
+      {
+        "newDesk": "National",
+        "userID": 46432198,
+        "articleID": "587575d295d0e0392607a033",
+        "typeOfMaterial": "News",
+        "userDisplayName": "Fluffy",
+        "sectionName": "Politics",
+        "userLocation": "Delaware"
+      }
+    ]
+  ],
+  "uris": []
+}

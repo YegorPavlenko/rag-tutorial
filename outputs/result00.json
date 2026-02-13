@@ -1,0 +1,83 @@
+{
+  "distances": [
+    [
+      0.805177,
+      0.95133233,
+      1.0038787,
+      1.0255349,
+      1.0294194
+    ]
+  ],
+  "documents": [
+    [
+      "I don't know if it is true or not, but people are saying...",
+      "Unsubstantiated report = Rumor.",
+      "Says who?  Facts please.",
+      "whoa back!!  I am no trump supporter, but i have spent the last two years putting up with a far-right brother's links to every sort of conspiracy theory.  let's try not to believe something just because we want to -- there's plenty of that on the other side.  i heard rumors like this a long time ago, and i'd be gleeful if they're true, but could we at least try to take the high road on this and encourage trusted sources to actually confirm it,  i can't believe that this wouldn't have been big news a while ago if it was easy to find corroborating evidence.",
+      "Why is the NYT publishing rumors?  Another slow news day folks?"
+    ]
+  ],
+  "embeddings": [],
+  "ids": [
+    [
+      "21071676.0",
+      "21061818.0",
+      "21052329.0",
+      "21058273.0",
+      "21062516.0"
+    ]
+  ],
+  "include": [
+    "metadatas",
+    "documents",
+    "distances"
+  ],
+  "metadatas": [
+    [
+      {
+        "userLocation": "CA",
+        "sectionName": "Politics",
+        "articleID": "587575d295d0e0392607a033",
+        "typeOfMaterial": "News",
+        "newDesk": "National",
+        "userDisplayName": "Steve",
+        "userID": 27373584
+      },
+      {
+        "typeOfMaterial": "News",
+        "userID": 54692409,
+        "userDisplayName": "Randy L.",
+        "newDesk": "National",
+        "articleID": "587575d295d0e0392607a033",
+        "userLocation": "Brussels, Belgium",
+        "sectionName": "Politics"
+      },
+      {
+        "userLocation": "Alameda, ca",
+        "sectionName": "Unknown",
+        "newDesk": "National",
+        "typeOfMaterial": "News",
+        "userDisplayName": "peterson.janet",
+        "articleID": "58735f3a95d0e03926079aab",
+        "userID": 44561044
+      },
+      {
+        "userID": 46432198,
+        "newDesk": "National",
+        "userDisplayName": "Fluffy",
+        "sectionName": "Politics",
+        "typeOfMaterial": "News",
+        "userLocation": "Delaware",
+        "articleID": "587575d295d0e0392607a033"
+      },
+      {
+        "userLocation": "Indiana",
+        "articleID": "587575d295d0e0392607a033",
+        "userID": 47723087,
+        "newDesk": "National",
+        "sectionName": "Politics",
+        "userDisplayName":"Bruce"
+      }
+    ]
+  ]
+}
